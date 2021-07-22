@@ -61,7 +61,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/farhan-dqz/JulieMwol
+$ git clone https://github
 $ cd JulieMwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
