@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://images.app.goo.gl/hdQyqc5qamp7hjmD6" width="200" height="200"/>
+  <img border-radius: 15px src="https://avatars.mages.app.goo.gl/hdQyqc5qamp7hjmD6" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
